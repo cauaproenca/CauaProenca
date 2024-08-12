@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on em grupo
 - 📫 How to reach me 00001115975742sp@al.educacao.sp.gov.br
 - 😄 Pronouns: Masculino
-- ⚡ Fun fact: sou introvertido
+- ⚡ Fun fact: gosto muito de carro
+  
 
 <!---
 cauaproenca/cauaproenca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
